@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RainmakerMoxie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-07 23:53-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Neil Simon <nsimon@solidcode.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rainmakermoxie.php:127
+msgid "Email to: (optional)"
+msgstr "Resultados por correo electrónico a: (opcional)"
+
+#: rainmakermoxie.php:131
+msgid "Look up email address:"
+msgstr "Búsqueda de una dirección de e-mail:"
+
+#: rainmakermoxie.php:222
+#: rainmakermoxie.php:238
+msgid "Unable to get contact info for that email address. Please try again."
+msgstr "No se puede obtener información de contacto para que la dirección de correo electrónico. Por favor, inténtalo de nuevo.ListenRead phonetically"
+
+#: rainmakermoxie.php:264
+msgid "Unable to get contact info for that email address. Blog administrator: The FullContact API key may be invalid, missing, or has exceeded its quota."
+msgstr "No se puede obtener información de contacto para que la dirección de correo electrónico. Administrador del blog: La clave FullContact API puede no ser válido, falta o se ha excedido su cuota."
+
+#: rainmakermoxie.php:271
+msgid "Unable to get contact info for that email address"
+msgstr "No se puede obtener información de contacto para que dirección de correo electrónico"
+
+#: rainmakermoxie.php:310
+msgid "Contact Info:"
+msgstr "Información de contacto:"
+
+#: rainmakermoxie.php:434
+msgid "Interests:"
+msgstr "Intereses:"
+
+#: rainmakermoxie.php:467
+msgid "Organizations:"
+msgstr "Organizaciones:"
+
+#: rainmakermoxie.php:654
+msgid "Social Profiles:"
+msgstr "Perfiles sociales:"
+
+#: rainmakermoxie.php:756
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: rainmakermoxie.php:902
+msgid "Plancast:"
+msgstr "Plancast:"
+
+#: rainmakermoxie.php:1114
+msgid "A FullContact API Key is required."
+msgstr "Su FullContact API clave:"
+
+#: rainmakermoxie.php:1116
+msgid "Then enter it on the RainmakerMoxie Plugin options page."
+msgstr "Por favor, introduzca sus opciones Plugin RainmakerMoxie:"
+
+#: rainmakermoxie.php:1145
+msgid "Please enter your RainmakerMoxie Plugin options:"
+msgstr "Por favor, introduzca sus opciones Plugin RainmakerMoxie:"
+
+#: rainmakermoxie.php:1146
+msgid "Your FullContact API Key:"
+msgstr "Su FullContact API clave:"
+
+#: rainmakermoxie.php:1147
+msgid "Get a FullContact API Key"
+msgstr "Obtener una clave API FullContact"
+
+#: rainmakermoxie.php:1148
+msgid "Sidebar Title:"
+msgstr "Sidebar Title:"
+
+#: rainmakermoxie.php:1149
+msgid "Show Powered by FullContact"
+msgstr "Mostrar Desarrollado por FullContact"
+
+#: rainmakermoxie.php:1150
+msgid "Hide Powered by FullContact"
+msgstr "Ocultar Desarrollado por FullContact"
+
+#: rainmakermoxie.php:1151
+msgid "Save"
+msgstr "Ahorrar"
+
+#: rainmakermoxie.php:1152
+msgid "RainmakerMoxie options saved successfully."
+msgstr "Opciones RainmakerMoxie guardado correctamente."
+
+#: rainmakermoxie.php:1153
+msgid "Please enter all required fields."
+msgstr "Por favor, introduzca todos los campos obligatorios."
+
+#: rainmakermoxie.php:1154
+msgid "ERROR: Please re-enter SendGrid Username and Api Key."
+msgstr "ERROR: Por favor, introduzca SendGrid nombre de usuario y clave de la API."
+
+#: rainmakermoxie.php:1155
+msgid "<b>Optional:</b> SendGrid email sender."
+msgstr "<b> Opcional: </ b> enviar correo electrónico enviar red."
+
+#: rainmakermoxie.php:1156
+msgid "Enables optional emailing of displayed"
+msgstr "Permite enviar por correo electrónico opcional de muestra"
+
+#: rainmakermoxie.php:1157
+msgid "contacts by the blog visitor."
+msgstr "contactos por el visitante del blog."
+
+#: rainmakermoxie.php:1158
+msgid "Your SendGrid Username:"
+msgstr "Su nombre de usuario SendGrid:"
+
+#: rainmakermoxie.php:1159
+msgid "Your SendGrid API Key:"
+msgstr "Su SendGrid API clave:"
+
+#: rainmakermoxie.php:1160
+msgid "Get a SendGrid API Key"
+msgstr "Su SendGrid API clave:"
+
+#: rainmakermoxie.php:1161
+msgid "Max Tweets To Display (1-20):"
+msgstr "Max Tweets Para mostrar (1-20):"
+
+#: rainmakermoxie.php:1162
+msgid "Max Plancast Past Plans To Display (1-20):"
+msgstr "Max pasado Plancast planea mostrar (1-20):"
+
+#: rainmakermoxie.php:1163
+msgid "Max Plancast Upcoming Plans To Display (1-20):"
+msgstr "Max Plancast próximos Planes Para mostrar (1-20):"
+
+#: rainmakermoxie.php:1331
+msgid "Unable to validate the FullContact API Key. Please retry."
+msgstr "No se puede validar la clave de API de FullContact. Por favor, inténtelo de nuevo."
+
+#: rainmakermoxie.php:1338
+msgid "Max Tweets must be between 1 and "
+msgstr "Tweets máximo debe ser de entre 1 y"
+
+#: rainmakermoxie.php:1345
+msgid "Max Past Plans must be between 1 and "
+msgstr "Planes de Max pasado debe ser entre 1 y"
+
+#: rainmakermoxie.php:1352
+msgid "Max Upcoming Plans must be between 1 and "
+msgstr "Max planes para el futuro debe ser entre 1 y"
+
+#: rainmakermoxie.php:1359
+msgid "A Sidebar Title is required. Please retry."
+msgstr "A título La barra lateral es necesario. Por favor, inténtelo de nuevo."
+
+#: rainmakermoxie.php:1375
+msgid "Unable to validate SendGrid Username and ApiKey. Please retry or leave both blank."
+msgstr "No se puede validar SendGrid nombre de usuario y ApiKey. Vuelva a intentarlo o dejar ambos en blanco."
+
+#~ msgid ""
+#~ "A Rainmaker ApiKey is required. Please see the RainmakerMoxie Plugin "
+#~ "options page."
+#~ msgstr ""
+#~ "A ApiKey Rainmaker es necesario. Por favor vea el Plugin RainmakerMoxie "
+#~ "opciones de la página."
+#~ msgid "Get a SendGrid Username and API Key"
+#~ msgstr "Obtener un nombre de usuario y clave SendGrid API"
+

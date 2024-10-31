@@ -1,0 +1,90 @@
+/* Plugin ... RainmakerMoxie                       */
+/* Module ... rainmakermoxie.plugin.css            */
+/* Desc ..... Applies to the plugin sidebar widget */
+
+#iRainmakerMoxieOutput
+    {
+    margin: 0, auto;               /* margin 0                */
+    }
+
+.cSpinner
+    {
+    vertical-align: -.30em;        /* to middle of textbox    */
+    }
+
+.cEmailSent
+    {
+    vertical-align: -.30em;        /* to middle of textbox    */
+    }
+
+.cPhoto
+    {
+    border: none;                  /* no border               */
+    margin-bottom: .25em;          /* add bottom margin       */
+    }
+
+.cEmailAddressToSendResults
+    {
+    width: 15.5em;                 /* width of textbox        */
+    font-size: .85em;              /* email address text      */
+    font-weight: 900;              /* thickness               */
+    text-indent: .30em;            /* indent from left        */
+    color: #707070;                /* text-color: light gray  */
+    border-width: .15em;           /* textbox border width    */
+    border-style: solid;           /* textbox border style    */
+    border-color: #000000;         /* black                   */
+    border-radius: .50em;          /* multi-browser rounded   */
+    -moz-border-radius: .50em;     /* firefox rounded corners */
+    -webkit-border-radius: .50em;  /* webkit rounded corners  */
+    }
+
+.cEmailAddressToLookup
+    {
+    width: 15.5em;                 /* width of textbox        */
+    font-size: .85em;              /* email address text      */
+    font-weight: 900;              /* thickness               */
+    text-indent: .30em;            /* indent from left        */
+    color: #202020;                /* text-color: dark gray   */
+    border-width: .15em;           /* textbox border width    */
+    border-style: solid;           /* textbox border style    */
+    border-color: #000000;         /* black                   */
+    border-radius: .50em;          /* multi-browser rounded   */
+    -moz-border-radius: .50em;     /* firefox rounded corners */
+    -webkit-border-radius: .50em;  /* webkit rounded corners  */
+    }
+
+.cPoweredBy
+    {
+    font-size: .85em;              /* reduce text size        */
+    }
+
+.cVersionNumber
+    {
+    font-size: .80em;              /* reduce text size        */
+    }
+
+.cError
+    {
+    color: #FF0000;                /* red                     */
+    }
+
+.cPersonData
+    {
+    font-size: .95em;              /* output text font size   */
+    }
+
+.cChicklet
+    {
+    border: none;                  /* suppress border         */
+    margin-bottom: .10em;          /* add bottom margin       */
+    }
+
+.cChickletText
+    {
+    vertical-align: .40em;         /* to middle of chicklet   */
+    }
+
+.cTweetElapsedTime
+    {
+    color: #A6A6A6;                /* very light gray         */
+    }

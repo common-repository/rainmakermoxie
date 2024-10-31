@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RainmakerMoxie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-07 23:55-0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Neil Simon <nsimon@solidcode.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: rainmakermoxie.php:127
+msgid "Email to: (optional)"
+msgstr "電子郵件結果：（可選）"
+
+#: rainmakermoxie.php:131
+msgid "Look up email address:"
+msgstr "查找電子郵件地址："
+
+#: rainmakermoxie.php:222
+#: rainmakermoxie.php:238
+msgid "Unable to get contact info for that email address. Please try again."
+msgstr "無法取得聯絡信息該電子郵件地址。請再試一次。"
+
+#: rainmakermoxie.php:264
+msgid "Unable to get contact info for that email address. Blog administrator: The FullContact API key may be invalid, missing, or has exceeded its quota."
+msgstr "電子郵件結果：（可選）"
+
+#: rainmakermoxie.php:271
+msgid "Unable to get contact info for that email address"
+msgstr "無法取得聯絡信息該電子郵件地址"
+
+#: rainmakermoxie.php:310
+msgid "Contact Info:"
+msgstr "聯繫方式："
+
+#: rainmakermoxie.php:434
+msgid "Interests:"
+msgstr "興趣："
+
+#: rainmakermoxie.php:467
+msgid "Organizations:"
+msgstr "組織："
+
+#: rainmakermoxie.php:654
+msgid "Social Profiles:"
+msgstr "社會概況："
+
+#: rainmakermoxie.php:756
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: rainmakermoxie.php:902
+msgid "Plancast:"
+msgstr "Plancast:"
+
+#: rainmakermoxie.php:1114
+msgid "A FullContact API Key is required."
+msgstr "你造雨API密鑰："
+
+#: rainmakermoxie.php:1116
+msgid "Then enter it on the RainmakerMoxie Plugin options page."
+msgstr "請輸入您的RainmakerMoxie插件選項："
+
+#: rainmakermoxie.php:1145
+msgid "Please enter your RainmakerMoxie Plugin options:"
+msgstr "請輸入您的RainmakerMoxie插件選項："
+
+#: rainmakermoxie.php:1146
+msgid "Your FullContact API Key:"
+msgstr "你造雨API密鑰："
+
+#: rainmakermoxie.php:1147
+msgid "Get a FullContact API Key"
+msgstr "造雨獲取 API密鑰"
+
+#: rainmakermoxie.php:1148
+msgid "Sidebar Title:"
+msgstr "邊欄標題："
+
+#: rainmakermoxie.php:1149
+msgid "Show Powered by FullContact"
+msgstr "顯示技術支持造雨"
+
+#: rainmakermoxie.php:1150
+msgid "Hide Powered by FullContact"
+msgstr "隱藏技術支持造雨"
+
+#: rainmakermoxie.php:1151
+msgid "Save"
+msgstr "保存"
+
+#: rainmakermoxie.php:1152
+msgid "RainmakerMoxie options saved successfully."
+msgstr "RainmakerMoxie選項保存成功。"
+
+#: rainmakermoxie.php:1153
+msgid "Please enter all required fields."
+msgstr "請填寫所有必填字段。"
+
+#: rainmakermoxie.php:1154
+msgid "ERROR: Please re-enter SendGrid Username and Api Key."
+msgstr "錯誤：請重新輸入用戶名和SendGrid API密鑰。"
+
+#: rainmakermoxie.php:1155
+msgid "<b>Optional:</b> SendGrid email sender."
+msgstr "可選：SendGrid電子郵件發送者。"
+
+#: rainmakermoxie.php:1156
+msgid "Enables optional emailing of displayed"
+msgstr "啟用可選的電子郵件顯示的"
+
+#: rainmakermoxie.php:1157
+msgid "contacts by the blog visitor."
+msgstr "接觸的博客訪問者。"
+
+#: rainmakermoxie.php:1158
+msgid "Your SendGrid Username:"
+msgstr "你SendGrid用戶名："
+
+#: rainmakermoxie.php:1159
+msgid "Your SendGrid API Key:"
+msgstr "你SendGrid API密鑰："
+
+#: rainmakermoxie.php:1160
+msgid "Get a SendGrid API Key"
+msgstr "你SendGrid API密鑰："
+
+#: rainmakermoxie.php:1161
+msgid "Max Tweets To Display (1-20):"
+msgstr "最大鳴叫顯示（1-20）："
+
+#: rainmakermoxie.php:1162
+msgid "Max Plancast Past Plans To Display (1-20):"
+msgstr "最大Plancast過去的計劃顯示（1-20）："
+
+#: rainmakermoxie.php:1163
+msgid "Max Plancast Upcoming Plans To Display (1-20):"
+msgstr "最大Plancast近期計劃顯示（1-20）："
+
+#: rainmakermoxie.php:1331
+msgid "Unable to validate the FullContact API Key. Please retry."
+msgstr "無法驗證的造雨API密鑰。請重試。"
+
+#: rainmakermoxie.php:1338
+msgid "Max Tweets must be between 1 and "
+msgstr "最大鳴叫必須介於1和"
+
+#: rainmakermoxie.php:1345
+msgid "Max Past Plans must be between 1 and "
+msgstr "最大過去的計劃必須在1和"
+
+#: rainmakermoxie.php:1352
+msgid "Max Upcoming Plans must be between 1 and "
+msgstr "即將開始的最大計劃必須在1和"
+
+#: rainmakermoxie.php:1359
+msgid "A Sidebar Title is required. Please retry."
+msgstr "側欄標題是必需的。請重試。"
+
+#: rainmakermoxie.php:1375
+msgid "Unable to validate SendGrid Username and ApiKey. Please retry or leave both blank."
+msgstr "無法驗證用戶名和ApiKey SendGrid。請重試或留下兩個空白。"
+
+#~ msgid ""
+#~ "A Rainmaker ApiKey is required. Please see the RainmakerMoxie Plugin "
+#~ "options page."
+#~ msgstr "一個造雨ApiKey是必需的。請參閱 RainmakerMoxie插件選項頁面。"
+#~ msgid "Get a SendGrid Username and API Key"
+#~ msgstr "獲取 SendGrid用戶名和API密鑰"
+

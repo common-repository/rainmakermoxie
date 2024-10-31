@@ -1,0 +1,9 @@
+/* Plugin ... RainmakerMoxie                     */
+/* Module ... rainmakermoxie.options.css         */
+/* Desc ..... Applies to the plugin options page */
+
+.cOptionsRedAsterisk
+    {
+    color: red;                    /* required field red      */
+    font-weight: bold;             /* bold                    */
+    }

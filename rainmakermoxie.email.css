@@ -1,0 +1,34 @@
+/* Plugin ... RainmakerMoxie                      */
+/* Module ... rainmakermoxie.email.css            */
+/* Desc ..... Applies to the generated html email */
+
+a:link, a:visited, a:active, a:hover
+    {
+    text-decoration: none;         /* do not underline links  */
+    }
+
+.cPoweredBy
+    {
+    font-size: .85em;              /* reduce text size        */
+    }
+
+.cVersionNumber
+    {
+    font-size: .80em;              /* reduce text size        */
+    }
+
+.cPersonData
+    {
+    font-size: .95em;              /* output text font size   */
+    }
+
+.cChicklet
+    {
+    border: none;                  /* suppress border         */
+    margin-bottom: .10em;          /* add bottom margin       */
+    }
+
+.cChickletText
+    {
+    vertical-align: .40em;         /* to middle of chicklet   */
+    }
